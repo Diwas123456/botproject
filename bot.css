@@ -1,0 +1,41 @@
+/*body{
+	background:#50514f;
+	color: #fff;
+
+
+}
+
+.design{
+	display: flex;
+	justify-content: center;
+	 flex-flow: column;
+	 align-items: center;
+	 height: 100vh; 
+}
+h1{
+font-size: 40px;
+font-weight: 600;
+border:3px solid #fff;
+padding: 10px 20px;
+margin-top:  20px;
+}
+#chatbot{
+	font-size: 16px;
+	color: #fff;
+}
+#input{
+	color: #fff;
+	padding: 20px;
+	font-size: 26px;
+	background: transparent;
+	border:0; 
+	text-align: center; 
+}
+#user{
+	font-size: 16px;
+	margin-bottom: 10px;
+}*/
+
+body{
+	background-color: #7d8d91;
+}
